@@ -1,0 +1,8 @@
+.lstu_accounts.json
+__pycache__/
+downloads/
+
+# Локальные снимки страниц и вспомогательные файлы для отладки парсинга
+*.html
+*_files/
+test_schedule.py
